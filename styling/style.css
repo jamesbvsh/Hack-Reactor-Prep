@@ -1,0 +1,98 @@
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/292px-FullMoon2010.jpg");
+  background-color: black;
+  color: lightblue;
+  font-size: 1.5em;
+  max-width: 800px;
+  margin: auto;
+  padding: 10px;
+}
+
+p {
+  color: ;
+  font-family: courier;
+}
+
+h1,
+h2 {
+  font-family: cursive;
+  color: rgb(0, 255, 0);
+  text-align: center;
+}
+
+h3 {
+  color: #96c;
+  background-color: black;
+  font-size: 2em;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  background-color: black;
+  text-align: center;
+  border: solid lime 1px;
+}
+
+.date {
+  background-color: grey;
+}
+
+#moonpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#travelplans {
+  font-size: 2em;
+  color: #FFFF00;
+  background-color: black;
+}
+
+table:first-child {
+  background-color: grey;
+}
+
+a {
+  color: rgb(173, 255, 47);
+}
+
+#cosmos {
+  font-style: italic;
+  font-size: 2em;
+  color: red;
+}
+
+#earth {
+  color: #006400;
+  font-weight: bold;
+  font-size: 2em;
+  font-family: courier;
+}
+
+#moontinis {
+  background: black;
+  color: gray;
+  font-size: 2em;
+  font-family: cursive
+}
+
+#pbd {
+  color: #00BFFF;
+  background-color: orange;
+  font-size:1.95em;
+}
+
+#curling * {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Men_curling_-_1909_-_Ontario_Canada.jpg/220px-Men_curling_-_1909_-_Ontario_Canada.jpg");
+  height:305px;
+  width:100%;
+  font-size:7em;
+  color:orange;
+}
+iframe {
+  margin: 30px auto 30px auto;
+  padding: 30px 30px 50px 30px;
+  background-color: #aaa;
+}
